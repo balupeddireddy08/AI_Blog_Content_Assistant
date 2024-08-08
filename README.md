@@ -20,11 +20,11 @@ streamlit run your_script_name.py
 
 ### How to Use
 
-####Title Generation:
+#### Title Generation:
 * Enter a topic in the "Input the topic" expander.
 * Click the "Submit the topic" button to generate a list of potential titles.
 
-####Blog Generation:
+#### Blog Generation:
 * Enter the desired blog title in the "Input Blog details" expander.
 * Set the desired blog length using the slider.
 * Add keywords by entering them in the input field and clicking "Add Keyword".
